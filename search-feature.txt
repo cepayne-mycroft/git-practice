@@ -1,0 +1,1 @@
+Search feature: allow users to search products by name.
